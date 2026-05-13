@@ -1,4 +1,4 @@
-# Weekend Projects
+# weekend Projects
 
 Organized collection of weekend projects focused on creativity, problem-solving, and modern development.
 
