@@ -92,3 +92,62 @@ Memento acts like a **digital life journal + tracker**:
 
 ## 📊 Example Output
 ![alt text](282296f8-a5f1-430b-ad2e-48ff21ffe3a1.jpg)
+
+
+---
+
+## 🧠 How It Works
+
+Since this is a web application:
+
+- Users input their weekly data (quick & simple)
+- The system analyzes patterns
+- Generates insights and comparisons automatically
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend & Backend:** Next.js
+- **Database:** MongoDB / PostgreSQL
+- **Styling:** Tailwind CSS
+- **Image Storage:** Cloudinary / Local Storage
+
+---
+
+## 📂 Core Features Breakdown
+
+### 🗂 Weekly Data
+- Activities
+- Screen time
+- Notes
+
+### 📸 Memories
+- Upload images for each week
+
+### 📈 Insights
+- Compare with last week
+- Show improvement / decline
+
+---
+
+## 🔄 Future Scope
+
+- API integrations (Google Fit, etc.)
+- Better analytics dashboard
+- AI-based suggestions
+
+---
+
+## 🎯 Vision
+
+To help users:
+- Become aware of their time usage
+- Build better habits
+- Improve consistently every week
+
+---
+
+## 👨‍💻 Author
+
+Built by Khushi Joshi 
